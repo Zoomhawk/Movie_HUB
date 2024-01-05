@@ -6,13 +6,22 @@ import {getFirestore,setDoc,doc, getDoc} from "firebase/firestore"
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+// const firebaseConfig = {
+//   apiKey: "AIzaSyAi5S3ecQ_yyC-EkGK4ID6yfDNxuAw1uyM",
+//   authDomain: "moviehub-38cc2.firebaseapp.com",
+//   projectId: "moviehub-38cc2",
+//   storageBucket: "moviehub-38cc2.appspot.com",
+//   messagingSenderId: "320027665466",
+//   appId: "1:320027665466:web:d9d5cdb4cd787483448103"
+// };
+
 const firebaseConfig = {
-  apiKey: "AIzaSyAi5S3ecQ_yyC-EkGK4ID6yfDNxuAw1uyM",
-  authDomain: "moviehub-38cc2.firebaseapp.com",
-  projectId: "moviehub-38cc2",
-  storageBucket: "moviehub-38cc2.appspot.com",
-  messagingSenderId: "320027665466",
-  appId: "1:320027665466:web:d9d5cdb4cd787483448103"
+  apiKey: "AIzaSyDCVhVVG2-UlMkzD8Gtw1ki325UpJipwv0",
+  authDomain: "movie-hub-f7c9c.firebaseapp.com",
+  projectId: "movie-hub-f7c9c",
+  storageBucket: "movie-hub-f7c9c.appspot.com",
+  messagingSenderId: "728786825825",
+  appId: "1:728786825825:web:c2ebd48e8015bd8144b020"
 };
 
 // Initialize Firebase
